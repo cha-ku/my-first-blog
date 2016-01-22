@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title>ChaiKu's Blog</title>
+    </head>
+    <body>
+
+        <div>
+            <h1><a href="">Lord Chaivinist the Second aka ChaiKu's Blog</a></h1>
+        </div>
+        
+         <div>
+           {{posts}}
+        </div>
+
+    </body>
+</html>
+
